@@ -1,0 +1,2 @@
+stars>=5.2 stars<5.5 bpm<=200 length>=02:30 ranked>=2017-08 ranked<2023-11
+empty line
